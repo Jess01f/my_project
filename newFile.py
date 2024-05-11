@@ -1,2 +1,3 @@
-git commit -m "Aggiunto newFile.py al repository"
+git commit -m "Added newFile.py to the repository"
+
 
